@@ -8,6 +8,4 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Periaps Manufacturing Services
-
 Engineering consultants with expertise in advanced manufacturing, minimum viable product design, and process development for the aerospace and automotive sectors.
