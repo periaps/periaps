@@ -3,7 +3,7 @@ title: "Noah Gula"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 image: "images/team/noah-gula.jpg"
-jobtitle: "CTO"
+jobtitle: "Chief Technical Officer"
 linkedinurl: "https://www.linkedin.com/in/noahgula/"
 promoted: true
 weight: 2
